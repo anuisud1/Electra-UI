@@ -1,0 +1,118 @@
+﻿  lapi.c
+  lauxlib.c
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lauxlib.c(544): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(182): note: see declaration of 'strerror'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lauxlib.c(564): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lauxlib.c(574): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(243): note: see declaration of 'freopen'
+  lbaselib.c
+  lcode.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\liolib.c(39): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(182): note: see declaration of 'strerror'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\liolib.c(41): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(182): note: see declaration of 'strerror'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\liolib.c(49): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(182): note: see declaration of 'strerror'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\liolib.c(165): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\liolib.c(185): warning C4996: 'tmpfile': This function or variable may be unsafe. Consider using tmpfile_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(430): note: see declaration of 'tmpfile'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\liolib.c(205): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\liolib.c(257): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\liolib.c(275): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\liolib.c(398): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(182): note: see declaration of 'strerror'
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\loadlib.c(333): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\loadlib.c(594): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1191): note: see declaration of 'getenv'
+  lobject.c
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lobject.c(145): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lobject.c(184): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lobject.c(193): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lobject.c(196): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lobject.c(198): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lobject.c(204): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lobject.c(206): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(266): note: see declaration of 'strncat'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lobject.c(207): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lobject.c(210): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lobject.c(211): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  lopcodes.c
+  loslib.c
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\loslib.c(31): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(182): note: see declaration of 'strerror'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\loslib.c(60): warning C4996: 'tmpnam': This function or variable may be unsafe. Consider using tmpnam_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(440): note: see declaration of 'tmpnam'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\loslib.c(69): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1191): note: see declaration of 'getenv'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\loslib.c(129): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\time.h(496): note: see declaration of 'gmtime'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\loslib.c(133): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\time.h(506): note: see declaration of 'localtime'
+  lparser.c
+  Generating Code...
+  Compiling...
+  lstate.c
+  lstring.c
+  lstrlib.c
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lstrlib.c(740): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lstrlib.c(750): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lstrlib.c(777): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lstrlib.c(782): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lstrlib.c(787): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lstrlib.c(792): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lstrlib.c(810): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  ltable.c
+  ltablib.c
+  ltm.c
+  lundump.c
+  lvm.c
+c:\users\anuis\onedrive\desktop\axon\v3rm\lua\lvm.c(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  lzio.c
+  Generating Code...
+  Main.cpp
+c:\users\anuis\onedrive\desktop\axon\v3rm\bridge.h(72): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\anuis\onedrive\desktop\axon\v3rm\bridge.h(72): warning C4309: 'initializing': truncation of constant value
+c:\users\anuis\onedrive\desktop\axon\v3rm\bridge.h(93): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\anuis\onedrive\desktop\axon\v3rm\bridge.h(291): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\anuis\onedrive\desktop\axon\v3rm\bridge.h(300): warning C4002: too many arguments for function-like macro invocation 'r_lua_tostring'
+c:\users\anuis\onedrive\desktop\axon\v3rm\bridge.h(340): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  memory.cpp
+  Generating Code...
+c:\users\anuis\onedrive\desktop\axon\v3rm\main.cpp(94): warning C4715: 'input': not all control paths return a value
+c:\users\anuis\onedrive\desktop\axon\v3rm\main.cpp(151): warning C4715: 'CONSOLEBYPASS': not all control paths return a value
+  V3rm.vcxproj -> C:\Users\anuis\OneDrive\Desktop\Axon\Debug\disisshit.dll
