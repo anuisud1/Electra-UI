@@ -1,0 +1,12 @@
+C:\Users\anuis\source\repos\Electra UI\Electra UI\bin\Debug\Electra UI.exe.config
+C:\Users\anuis\source\repos\Electra UI\Electra UI\bin\Debug\Electra UI.exe
+C:\Users\anuis\source\repos\Electra UI\Electra UI\bin\Debug\Electra UI.pdb
+C:\Users\anuis\source\repos\Electra UI\Electra UI\obj\Debug\Electra UI.csprojAssemblyReference.cache
+C:\Users\anuis\source\repos\Electra UI\Electra UI\obj\Debug\Electra_UI.Form1.resources
+C:\Users\anuis\source\repos\Electra UI\Electra UI\obj\Debug\Electra_UI.Properties.Resources.resources
+C:\Users\anuis\source\repos\Electra UI\Electra UI\obj\Debug\Electra UI.csproj.GenerateResource.cache
+C:\Users\anuis\source\repos\Electra UI\Electra UI\obj\Debug\Electra UI.csproj.CoreCompileInputs.cache
+C:\Users\anuis\source\repos\Electra UI\Electra UI\obj\Debug\Electra UI.exe
+C:\Users\anuis\source\repos\Electra UI\Electra UI\obj\Debug\Electra UI.pdb
+C:\Users\anuis\source\repos\Electra UI\Electra UI\bin\Debug\FastColoredTextBox.dll
+C:\Users\anuis\source\repos\Electra UI\Electra UI\obj\Debug\Electra UI.csproj.CopyComplete
